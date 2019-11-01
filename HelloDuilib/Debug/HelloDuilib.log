@@ -1,0 +1,24 @@
+﻿生成启动时间为 2019/10/28 20:00:10。
+     1>项目“E:\软件\HelloDuilib\HelloDuilib\HelloDuilib.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\software\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\HelloDuilib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\software\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HelloDuilib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HelloDuilib.cpp HelloDuilibWnd.cpp
+         HelloDuilibWnd.cpp
+         HelloDuilib.cpp
+     1>e:\软件\helloduilib\helloduilib\helloduilib.cpp(162): warning C4101: “e”: 未引用的局部变量
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\HelloDuilib.res" HelloDuilib.rc 
+       Link:
+         D:\software\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\软件\HelloDuilib\Debug\HelloDuilib.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\软件\HelloDuilib\Debug\HelloDuilib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\软件\HelloDuilib\Debug\HelloDuilib.lib" /MACHINE:X86 /SAFESEH Debug\HelloDuilib.res
+         Debug\HelloDuilib.obj
+         Debug\HelloDuilibWnd.obj
+         Debug\stdafx.obj
+     1>HelloDuilib.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         HelloDuilib.vcxproj -> E:\软件\HelloDuilib\Debug\HelloDuilib.exe
+     1>已完成生成项目“E:\软件\HelloDuilib\HelloDuilib\HelloDuilib.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.26

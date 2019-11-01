@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="461,400">
+    <VerticalLayout width="400" height="400" bkcolor="#FF808080" bordercolor="#00800080">
+        <Text text="HelloDuilib" float="true" pos="12,337,0,0" width="100" height="31" textpadding="2,0,2,0" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="wrap" />
+    </VerticalLayout>
+</Window>
